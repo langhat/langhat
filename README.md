@@ -36,6 +36,7 @@
 - Todesk
 - Godot
 
+![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=LKBaka&layout=compact&theme=dark)
 
 <!--
 **langhat/langhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
